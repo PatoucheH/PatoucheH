@@ -1,16 +1,20 @@
-## Hi there 👋
+# HI EVERYONE 👋
 
-<!--
-**PatoucheH/PatoucheH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome on my GitHub page here some infromations about me : 
+I'm a Belgian 🇧🇪 Software Developper Junior in progress.
 
-Here are some ideas to get you started:
+I'm a fan of technology and programming in particular, I like to touch everything and above all to learn new things. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills : 
+
+- HTML : Good knowledge of the basics
+- CSS : Good knowledge
+- Javascript : Good knowledge
+
+## Programming tools
+
+- CSS Framework :
+                  1.Bulma : Good knowledge
+                  2.Tailwind : Basics knowledge
+
+                
