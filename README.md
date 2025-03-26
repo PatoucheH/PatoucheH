@@ -16,6 +16,6 @@ I'm a fan of technology and programming in particular, I like to touch everythin
 ## Programming tools
 
 #### CSS Framework : 
-- Bulma : Godd
+- Bulma : Good
 - Tailwind : Basics
 - Bootstrap : Basics
