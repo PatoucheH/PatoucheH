@@ -7,9 +7,11 @@ I'm a fan of technology and programming in particular, I like to touch everythin
 
 ## My skills : 
 
-- HTML : Good knowledge of the basics
-- CSS : Good knowledge
-- Javascript : Good knowledge
+- HTML : Good
+- CSS : Good
+- Javascript : Good
+- Python : Basics
+- C# : Basics 
 
 ## Programming tools
 
