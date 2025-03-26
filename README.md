@@ -15,8 +15,7 @@ I'm a fan of technology and programming in particular, I like to touch everythin
 
 ## Programming tools
 
-- CSS Framework :
-                  1.Bulma : Good knowledge
-                  2.Tailwind : Basics knowledge
-
-                
+#### CSS Framework : 
+- Bulma : Godd
+- Tailwind : Basics
+- Bootstrap : Basics
