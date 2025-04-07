@@ -7,7 +7,7 @@ I'm a fan of technology and programming in particular, I like to touch everythin
 
 ## My programming language : 
 - Javascript
-- Python
+- Python (In loading)
 
 ## Programming tools
 
