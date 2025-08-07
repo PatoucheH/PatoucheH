@@ -79,7 +79,7 @@ public class CurrentLearning
     public string MainFocus { get; set; } = ".NET Development";
     public string[] LearningAt { get; set; } = { "BeCode Charleroi" };
     public string[] SelfStudying { get; set; } = { "Python", "Advanced C#", "Clean Architecture" };
-    public string[] NextGoals { get; set; } = { "ASP.NET Core", "Entity Framework", "Blazor" };
+    public string[] NextGoals { get; set; } = { "Angular", "Practice Python"};
 
     public void DisplayMotivation()
     {
